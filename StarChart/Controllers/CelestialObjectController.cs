@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using StarChart.Data;
 using Microsoft.AspNetCore.Mvc;
 
-namespace StarChart.Data
+namespace StarChart.Controllers
 {
     [Route("")]
     [ApiController]
